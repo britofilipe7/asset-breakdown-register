@@ -3,7 +3,7 @@
 Program to register the asset breakdowns in a production environment. It has several sections to be used by different people in a company, with different roles. The production responsibles should register the assets and mark their severity in order to establish a maintenance priority for the maintenance crew, a.k.a. request. It display a simple dashboard where anyone can interpreter the current status of the breakdowns. It uses a SQLite database to write/read data.
 
 ## Dashboard
-![Dashboard](example screenshoots/home.png)
+![Dashboard](screenshoots/home.png)
 The dashboard allows anyone to interprete the current status of the breakdowns. The user can select 3 views: the requests, the assets under maintenance and the total (show both). The two graphs represent the amount of breakdowns in the previous weeks and the costs involded with the maintenance.
 
 ## Maintenance
