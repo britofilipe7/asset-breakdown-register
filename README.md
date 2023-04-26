@@ -9,9 +9,10 @@ Program to register the asset breakdowns in a production environment. It has sev
 ## Dashboard
 ![home](https://user-images.githubusercontent.com/83494402/234676075-f8998920-a73c-4f8b-9ed4-a3f58a122532.png)
 #### [🇵🇹]
+O dashboard permite que qualquer pessoa interprete o status atual das avarias. O user pode selecionar 3 visualizações: os pedidos, os ativos em manutenção e o total (mostra ambos). Os dois gráficos representam a quantidade de avarias nas semanas anteriores e os custos envolvidos com as manutenções.
 
 #### [🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿]
-The dashboard allows anyone to interprete the current status of the breakdowns. The user can select 3 views: the requests, the assets under maintenance and the total (show both). The two graphs represent the amount of breakdowns in the previous weeks and the costs involded with the maintenance.
+The dashboard allows anyone to interprete the current status of the breakdowns. The user can select 3 views: the requests, the assets under maintenance and the total (shows both). The two graphs represent the amount of breakdowns in the previous weeks and the costs involded with the maintenance.
 
 ## Maintenance
 ![maintenance](https://user-images.githubusercontent.com/83494402/234676116-c61a7dc0-d514-4405-8234-39f06097703f.png)
